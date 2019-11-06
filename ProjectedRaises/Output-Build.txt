@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: CarRental, Configuration: Debug Any CPU ------
+1>  CarRental -> C:\Users\jv145104\source\repos\CarRental\CarRental\bin\Debug\CarRental.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

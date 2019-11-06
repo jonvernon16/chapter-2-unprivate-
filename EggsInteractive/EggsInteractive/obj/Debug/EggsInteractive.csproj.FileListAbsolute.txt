@@ -1,0 +1,6 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter 2\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter 2\EggsInteractive\EggsInteractive\bin\Debug\EggsInteractive.exe.config
+C:\Users\jv145104\Desktop\C# Projects\Chapter 2\EggsInteractive\EggsInteractive\bin\Debug\EggsInteractive.exe
+C:\Users\jv145104\Desktop\C# Projects\Chapter 2\EggsInteractive\EggsInteractive\bin\Debug\EggsInteractive.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter 2\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.exe
+C:\Users\jv145104\Desktop\C# Projects\Chapter 2\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.pdb
